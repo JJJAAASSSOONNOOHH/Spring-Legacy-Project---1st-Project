@@ -228,12 +228,13 @@
 ***
 
 ### :file_folder: Admin - Delivery Management
+![image](https://github.com/JJJAAASSSOONNOOHH/Spring-Legacy-Project---1st-Project/assets/93170784/b7013e3c-1056-4b4b-80d2-2b248623d9e5)
 #### :point_right: 배송관리 페이지. 전체 배송상태 변경 시 하위 배송상태 전체 변경 기능 구현
 #### :point_right: 삭제 시, 관련 Order 전체 삭제 동기화
 #### :point_right: 상세페이지에서 관련 정보 확인 가능
 ***
 
 ### :film_strip: 시연 영상
-
+https://streamable.com/rosnvx
 
 ***
