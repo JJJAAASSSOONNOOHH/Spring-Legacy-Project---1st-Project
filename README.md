@@ -30,14 +30,14 @@
 </div>
 <br>
 
-## 개요
+# 개요
 부트스트랩을 활용한 남성 의류 쇼핑몰입니다. 남성 물품에 맞는 쇼핑을 진행할 수 있고 실제 결제까지 해볼 수 있는 온라인 쇼핑몰입니다. 
 
 # 개발 기간
-- 2023/11/15 ~ 2023/12/18 (4주)
+2023/11/15 ~ 2023/12/18 (4주)
 
 # 프로젝트
-: Spring MVC 프로젝트를 진행하면서 어떤 프로젝트를 할지 고민을 많이 했지만, 부득이하게 두 팀이 합쳐지면서 가장 구현해야 할 기능이 많은 쇼핑몰 프로젝트를 진행하게 되었습니다. 
+Spring MVC 프로젝트를 진행하면서 어떤 프로젝트를 할지 고민을 많이 했지만, 부득이하게 두 팀이 합쳐지면서 가장 구현해야 할 기능이 많은 쇼핑몰 프로젝트를 진행하게 되었습니다. 
 
 # 개발 인원 및 파트
 <table align=center>
@@ -61,10 +61,6 @@
   </tr>
 </table>
 
-# 기술 스텍
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 # 서비스 소개
 - 메인 페이지에서 가장 많이 팔린 상품을 우선순위로 보여주어 유저들에게 인기있는 상품에 쉽게 접근할 수 있습니다.
 - 상품페이지에서 유저들이 원하는 카테고리별로 편리하게 접근할 수있습니다.
