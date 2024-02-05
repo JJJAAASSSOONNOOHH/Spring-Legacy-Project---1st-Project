@@ -77,7 +77,7 @@ Spring MVC 프로젝트를 진행하면서 어떤 프로젝트를 할지 고민�
 <img src="https://github.com/skgusskgusgg/1st_project/assets/92068041/59eb1f6f-0d45-4631-a793-c625490c8ba3" width="400">
 
 
-# FLOW CHAR
+# FLOW CHART
  ### Customer Flow 
 <img src="https://github.com/skgusskgusgg/1st_project/assets/92068041/3f97816b-6ebf-40cb-b4ff-a2663c4d04c5" width="600" >
 
