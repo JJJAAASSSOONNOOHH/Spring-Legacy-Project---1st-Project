@@ -233,8 +233,3 @@
 #### :point_right: 삭제 시, 관련 Order 전체 삭제 동기화
 #### :point_right: 상세페이지에서 관련 정보 확인 가능
 ***
-
-### :film_strip: 시연 영상
-https://streamable.com/rosnvx
-
-***
