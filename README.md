@@ -1,4 +1,4 @@
-![image](https://github.com/JJJAAASSSOONNOOHH/Spring-Legacy-Project---1st-Project/assets/93170784/f9d3d4d5-2e31-4f0a-9e46-671ec7059152)<div align=center>
+<div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=717fe0&fontColor=fff&height=300&section=header&text=Ecommerce-Project%20&fontSize=80"/>
 </div>
 <div align=center>
